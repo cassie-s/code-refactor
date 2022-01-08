@@ -6,6 +6,6 @@
 ## Images
 ![Screenshot of Website](website.png)
 ## Links
-* cassie-s.github.io/code-reactor
+* http://cassie-s.github.io/code-refactor
 
 
